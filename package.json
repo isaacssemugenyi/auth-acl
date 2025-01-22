@@ -1,0 +1,30 @@
+{
+  "name": "auth-acl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaacssemugenyi/auth-acl.git"
+  },
+  "scripts": {
+    "test": "jest *.spec.js"
+  },
+  "keywords": [
+    "authorization",
+    "authentication",
+    "nodejs",
+    "node",
+    "acl",
+    "role",
+    "attribute"
+  ],
+  "author": {
+    "name": "Isaac Ssemugenyi",
+    "email": "isaacpro01@gmail.com"
+  },
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
