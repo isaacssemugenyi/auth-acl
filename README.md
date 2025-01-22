@@ -4,7 +4,7 @@ This can be used in expressjs and any other javascript based framework
 
 ![npm](https://img.shields.io/npm/v/auth-acl)
 ![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/auth-acl/0.0.1)
-![licence (MIT)](https://img.shields.io/npm/l/auth-acl)
+![NPM License](https://img.shields.io/npm/l/auth-acl)
 
 ### Usage
 
